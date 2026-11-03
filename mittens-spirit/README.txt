@@ -1,5 +1,5 @@
 M1TTENS SP1R1T Opera GX - setup
-
+1: Get "stockfish-19-lite-single" and stockfish-19-lite-single.wasm" and put them in the folder. Ask GPT for help on this since im too lazy to help with that.
 1. Opera GX -> opera://extensions -> Developer mode ON -> Load unpacked -> pick this folder.
 2. Go to chess.com/play/online (You may also do coach or bot) and start a game.
 
